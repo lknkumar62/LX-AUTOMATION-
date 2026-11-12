@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rumble View Counter</string>
+    <string name="instructions">
+        1. Enter your Rumble video URL\n
+        2. Tap Start Counter to begin\n
+        3. The app will generate unique organic views that bypass algorithm detection\n
+        4. Views will increase automatically in background\n
+        5. Use Stop Counter to pause the service\n\n
+        Note: This tool ensures unique views (not raw views) to avoid duplicate detection by Rumble's systems.
+    </string>
+</resources>
